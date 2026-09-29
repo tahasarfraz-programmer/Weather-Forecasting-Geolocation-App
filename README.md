@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weatherly
 ### Weather intelligence, beautifully designed.
 
@@ -65,3 +66,6 @@ Data: Open-Meteo, map: © OpenStreetMap contributors.
 
 ## License
 MIT
+=======
+# Weather-Forecasting-Geolocation-App
+>>>>>>> a2e8079401820a22ec540afc53312b47f82c73cb
